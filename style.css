@@ -1,0 +1,114 @@
+.up-right {
+    position:absolute;
+    right: 0px;
+    width: 200px;
+    padding: 10px;
+}
+
+.google-resmi {
+    position: absolute;
+    bottom: 400px;
+    right: 550px;
+}
+
+ .center{ 
+    margin: auto;
+  width: 50%;
+  border: 3px ;
+  padding: 10px;
+}
+
+.bara{
+margin: 0px;
+width: 575px;
+border-radius: 30px;
+border: 1px solid #dcdcdc;
+position: absolute;
+bottom: 350px;
+right: 400px;
+ 
+
+}
+
+.searchbara{
+  height: 45px;
+  border: none;
+  width: 500px;
+  font-size: 16px;
+  outline: none;
+}
+
+
+
+
+.bara:hover {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.bara:focus-within {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  outline: none;
+}
+
+
+.voice {
+  height: 20px;
+  position: relative;
+  top: 5px;
+  left: 10px;
+}
+
+
+.buttons {
+  position: absolute;
+  bottom: 0px;
+  top: 60px;
+  right: 150px;
+}
+
+.button {
+  background-color: #f5f5f5;
+  border: none;
+  color: #707070;
+  font-size: 15px;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 4px;
+  outline: none;
+}
+
+.button:hover {
+  border: 1px solid #c8c8c8;
+  padding: 9px 19px;
+  color: #808080;
+}
+
+.button:focus {
+  border: 1px solid #4885ed;
+padding: 9px 19px;}
+
+
+.p {
+position: absolute;
+bottom: 230px;
+right: 600px;
+}
+
+.Slovenia {
+position: absolute;
+bottom: 70px;
+color: gray;
+background-color: rgb(207, 205, 205);
+width: 1350px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  color: gray;
+  
+background-color: rgb(207, 205, 205);
+width: 1350px;
+height: 70px;
+}
+
